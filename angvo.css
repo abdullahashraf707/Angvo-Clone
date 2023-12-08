@@ -1,0 +1,231 @@
+body{
+ margin: 0px;
+ padding: 0px;
+}
+.bg-set{
+    background-color: orangered;
+}
+.btn1{
+    background-color:  orangered;
+}
+.btn1:hover{
+    background-color: blue;
+}
+.back{
+ background-color: darkblue;
+}
+.sellers{
+    color:brown;
+}
+.color-0{
+    color:#C4C4C4;
+    /* background-color:mediumslateblue; */
+}
+.color-1{
+    color:#FFFFFF;
+}
+.color-2{
+    color:#C3C3C3;
+}
+.color-3{
+    color:white;
+    border-radius: 50px;
+    background-color: orangered;
+    padding: 20px;
+}
+
+
+.box{
+    background-color: white;
+    border-radius: 15px;
+}
+.text-1{
+    color: orangered;
+}
+.box:hover{
+    background-color: orangered;
+    color: white;
+
+}
+
+.box:hover .color-3{
+    background-color: white;
+    color: orangered;
+
+}
+.box:hover .text-1{
+    color: white !important;
+}
+.btn-2{
+    background-color: blue;
+    border-radius: 10px;
+}
+.btn-2:hover{
+    background-color: orangered;
+}
+.pr{
+    color:grey;
+    font-size: 45px;
+}
+.his{
+    color:orangered;
+}
+.succ{
+    font-size: 52px;
+}
+.kn{
+    color:grey;
+}
+.we{
+    color:#8A8A8A;
+}
+.flu{
+    background-color: darkblue;
+    color:white
+}
+.ango{
+    border:2px dashed white;
+}
+.work{
+    position: relative;
+    top:130px;
+    left: 220px;
+}
+@media screen and (max-width: 768px) {
+    .work-4 {
+      display: none;
+    }
+  }
+.work-1{
+    position: relative;
+    top:125px;
+    left: 240px;   
+}
+.work-2{
+    position: relative;
+    top:135px;
+    left: 440px;   
+}
+.why{
+    font-size: 55px;
+}
+.get{
+    color:grey;
+}
+.free{
+    font-size: 48px; 
+}
+.oran{
+    color:#F86E03;
+}
+.styl{
+    background-color:#EEF3F9 !important;
+}
+
+.has-icon .form-control {
+    padding-right: 2.375rem;
+
+}
+    .has-icon .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    padding-top: 25px;
+    line-height: 2.375rem;
+    pointer-events: none;
+    color: orange;
+    right: 130px;
+}
+
+input[type="text"]:focus {
+    border: 3px solid orangered;
+    /* box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(255, 251, 0, 0.749) (223, 6, 10, 0.6); */
+}
+.send{
+    background-color: blue;
+    border-radius: 7px;
+}
+.send:hover{
+    background-color: orangered;
+}
+.color{
+    background-color: #EEF3F9;
+}
+.how{
+    color: #8A8A8A;
+}
+.cust{
+  color: black;  
+  font-size: 60px;
+}
+.rev{
+    color: #F86E03;
+}
+.kno{
+    color:#8A8A8A;
+}
+.star{
+    color: #F86E03;
+}
+.right{
+    color:white;
+    background-color: #F86E03;
+    position: absolute;
+    left:120px;
+    border:1px solid red;
+    border-radius: 30px;
+}
+.blue{
+    background-color: darkblue;
+}
+.make{
+    color:#AEB7CA;
+}
+.quick{
+    color: #AEB7CA;
+}
+.quick:hover{
+    color: orangered;
+}
+.quick-1{
+    color: #AEB7CA;
+}
+.and{
+    position: relative;
+}
+.aria{
+    /* border: 1px solid re */
+    background-color:orangered;
+    margin-left:-63px;
+    border: none;
+    position:absolute;
+    top: 179px;
+}
+.face{
+    border: 1px solid red;
+    border: none;
+    background-color: white;
+    color:black;
+}
+.dark{
+    background-color:blue;
+    border-radius: 4px;
+}
+.dark:hover{
+    background-color: orangered;
+    color: white;
+}
+.face-1{
+    color:white;
+}
+.tru{
+    border: 1px solid red;
+    border: none;
+    /* border-radius: 50px; */
+    background-color: blue;
+}
+.tru:hover{
+    background-color: orangered;
+}
+.floor{
+    color:#AEB7CA;
+}
